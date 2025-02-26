@@ -164,7 +164,7 @@ body {
   flex: 1;
   display: flex;
   justify-content: flex-end;
-  margin-right: -5rem; /* Adjust this value to move it further right */
+  margin-right: -10rem; /* Adjust this value to move it further right */
 }
 
 .hero-image img {
