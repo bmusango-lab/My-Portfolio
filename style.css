@@ -127,7 +127,7 @@ body {
 .hero-text {
   flex: 1;
   text-align: center;
-  maxwidth: 100%;
+  max-width: 100%;
 }
 
 .hero-text h1 {
