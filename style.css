@@ -134,6 +134,7 @@ body {
   font-weight: bold;
   margin-bottom: 1.5rem;
   white-space: nowrap; /* Prevents wrapping */
+  display: inline-block; /* Ensures inline display */
 }
 
 }
