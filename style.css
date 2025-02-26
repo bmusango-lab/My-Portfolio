@@ -126,8 +126,6 @@ body {
 
 .hero-text {
   display: flex;
-  justify-content: center;
-  align-items: center;
   gap: 0.5rem;
   flex-wrap: nowrap; /* Prevents wrapping */
 }
