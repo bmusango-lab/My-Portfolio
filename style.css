@@ -169,6 +169,7 @@ body {
   border-radius: 9999px;
   object-fit: cover;
   box-shadow: var(--shadow);
+  margin-right: 2rem;
 }
 
 /* About Section */
