@@ -135,6 +135,7 @@ body {
   margin-bottom: 1.5rem;
   white-space: nowrap; /* Prevents wrapping */
   display: inline-block; /* Ensures inline display */
+  margin-left: -10rem; /* Adjust this value to move it further left */
 }
 
 }
